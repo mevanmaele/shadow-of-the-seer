@@ -28,15 +28,15 @@ When on the icons page, to find the name of the icon you want to use:
 
 ### The icons page
 
-![The icons page](iconsPage.png)
+![The icons page](png/iconsPage.png)
 
 ### Chrome DevTools browsing the icons page
 
-![Chrome DevTools browsing the icons page](devTools.png)
+![Chrome DevTools browsing the icons page](png/devTools.png)
 
 ### Viewing the class name of an icon in Chrome DevTools
 
-![Viewing the class name of an icon in Chrome DevTools](classNames.png)
+![Viewing the class name of an icon in Chrome DevTools](png/classNames.png)
 
 The names of the icons as of Sun Mar 24, 2024 were
 
